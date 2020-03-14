@@ -42,6 +42,5 @@ public class BMI {
         //if (i > 35) {
             //System.out.println( "Резкое ожирение!!!" );
         //}
-
     }
 
